@@ -138,7 +138,7 @@ export default function Home() {
             Get in Touch
           </h2>
           <p className="text-gray-600 dark:text-gray-300 text-base sm:text-lg">
-            Have questions? We're here to help you every step of the way.
+            Have questions? We&apos;re here to help you every step of the way.
           </p>
         </div>
         <div className="max-w-md mx-auto bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 sm:p-8">
